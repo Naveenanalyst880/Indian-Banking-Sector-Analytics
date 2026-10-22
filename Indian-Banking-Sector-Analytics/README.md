@@ -82,7 +82,7 @@ Indian-Banking-Sector-Analytics/
 
 ### Dashboard 1
 
-![Dashboard 1](screenshots/Dashboard_1.png)
+![Dashboard 1](Screenshot 2026-10-22 120032)
 
 ### Dashboard 2
 
