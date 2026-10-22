@@ -82,23 +82,23 @@ Indian-Banking-Sector-Analytics/
 
 ### Dashboard 1
 
-![Dashboard 1](Screenshot 2026-10-22 120032)
+Indian-Banking-Sector-Analytics/powerbi/dashboard sreenshot/Screenshot 2026-10-22 120032.png
 
 ### Dashboard 2
 
-![Dashboard 2](screenshots/Dashboard_2.png)
+Indian-Banking-Sector-Analytics/powerbi/dashboard sreenshot/Screenshot 2026-10-22 120051.png
 
 ### Dashboard 3
 
-![Dashboard 3](screenshots/Dashboard_3.png)
+Indian-Banking-Sector-Analytics/powerbi/dashboard sreenshot/Screenshot 2026-10-22 120107.png
 
 ### Dashboard 4 — State Analysis
 
-![Dashboard 4 State Analysis](screenshots/Dashboard_4_State_Analysis.png)
+Indian-Banking-Sector-Analytics/powerbi/dashboard sreenshot/Screenshot 2026-10-22 120122.png
 
 ### Dashboard 4 — Digital Banking Trends
 
-![Digital Banking Trends](screenshots/Dashboard_4_Digital_Banking_Trends.png)
+Indian-Banking-Sector-Analytics/powerbi/dashboard sreenshot/Screenshot 2026-10-22 120204.png
 
 
 
