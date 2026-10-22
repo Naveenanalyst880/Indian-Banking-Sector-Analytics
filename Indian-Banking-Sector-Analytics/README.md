@@ -78,6 +78,29 @@ Indian-Banking-Sector-Analytics/
 ```
 
 *Note: The file names shown above are illustrative. Your actual file names and extensions may differ slightly.*
+## 🖼️ Power BI Dashboard Previews
+
+### Dashboard 1
+
+![Dashboard 1](screenshots/Dashboard_1.png)
+
+### Dashboard 2
+
+![Dashboard 2](screenshots/Dashboard_2.png)
+
+### Dashboard 3
+
+![Dashboard 3](screenshots/Dashboard_3.png)
+
+### Dashboard 4 — State Analysis
+
+![Dashboard 4 State Analysis](screenshots/Dashboard_4_State_Analysis.png)
+
+### Dashboard 4 — Digital Banking Trends
+
+![Digital Banking Trends](screenshots/Dashboard_4_Digital_Banking_Trends.png)
+
+
 
 ## 📊 Project Modules
 
