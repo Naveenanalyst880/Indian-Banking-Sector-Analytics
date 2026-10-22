@@ -82,7 +82,7 @@ Indian-Banking-Sector-Analytics/
 
 ### Dashboard 1
 
-Indian-Banking-Sector-Analytics/powerbi/dashboard sreenshot/Screenshot 2026-10-22 120032.png
+<img width="613" height="391" alt="Screenshot 2026-10-22 120032" src="https://github.com/user-attachments/assets/2deec108-456f-4d96-97db-9639294a2472" />
 
 ### Dashboard 2
 
